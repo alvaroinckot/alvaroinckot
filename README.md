@@ -1,4 +1,4 @@
-# Hi, I'm Alvaro Inckot 👋
+# Hi, I'm Alvaro 👋
 
 **Staff Software Engineer @ Intel**
 
