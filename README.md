@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hi, I'm Alvaro Inckot 👋
+
+**Staff Software Engineer @ Intel**
+
+Welcome to my GitHub profile! I'm a passionate software engineer with extensive experience in backend and systems programming. I love building scalable solutions and exploring new technologies.
+
+## 💼 About Me
+
+- 🏢 Staff Software Engineer at **Intel**
+- 💡 Focused on building robust, high-performance systems
+- 🌎 Always curious about new tech and open source
+
+## 🌐 Find Me Online
+
+- 🌐 [alvaroinckot.com](https://www.alvaroinckot.com/)
 
 <!--
-**alvaroinckot/alvaroinckot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**alvaroinckot/alvaroinckot** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
