@@ -1,6 +1,6 @@
 # Hi, I'm Alvaro 👋
 
-**Founder Engineer @ Runlayer | ex-Intel **
+Founder Engineer @ Runlayer | ex-Intel
 
 ## 🌐 Find Me Online
 
